@@ -1,0 +1,29 @@
+{
+  "collections": [
+    {
+      "firstName": "ffafafa",
+      "name": "fafa",
+      "userId": 1111,
+      "id": 18
+    },
+    {
+      "firstName": "ffafaf",
+      "name": "ffff",
+      "userId": 1111,
+      "id": 19
+    },
+    {
+      "firstName": "ffafa",
+      "name": "fafafa",
+      "userId": 1111,
+      "id": 20
+    },
+    {
+      "firstName": "f",
+      "name": "fafaf",
+      "userId": null,
+      "id": 21
+    }
+  ],
+  "teachers": []
+}

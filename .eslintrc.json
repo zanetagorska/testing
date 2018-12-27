@@ -1,5 +1,5 @@
 {
-  "extends": "eslint:recommended",
+  "extends": ["airbnb","prettier", "preetier/react"],
   "env": {
     "browser": true,
     "commonjs": true,
@@ -13,5 +13,14 @@
     "no-console": "off",
     "strict": ["error", "global"],
     "curly": "warn"
-  }
+  },
+  "prettier/prettier": [
+    "error",
+    {
+      "trailingComa": "es5",
+      "singleQuote": true,
+      "printWidth": 120
+    }
+  ],
+  "plugins": ["prettier"]
 }
